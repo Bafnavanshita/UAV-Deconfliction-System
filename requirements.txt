@@ -1,0 +1,33 @@
+# UAV Deconfliction System Requirements
+
+# Core dependencies (exact versions for compatibility)
+numpy==1.24.3
+matplotlib==3.7.1
+scipy==1.10.1
+pandas==2.0.2
+typing-extensions==4.6.3
+
+# Visualization and animation
+plotly==5.14.1
+kaleido==0.2.1
+pillow>=8.3.0
+
+# Optional: Computer vision (for advanced features)
+opencv-python==4.7.1.72
+
+# Testing
+pytest==7.3.1
+
+# Basic utilities (no version conflicts)
+seaborn>=0.11.0
+
+# Optional: Performance optimization
+# numba>=0.56.0  # Uncomment if needed
+
+# Optional: Documentation
+# sphinx>=4.0.0
+# sphinx-rtd-theme>=0.5.0
+
+# Optional: Development tools
+# black>=21.0.0
+# flake8>=3.9.0

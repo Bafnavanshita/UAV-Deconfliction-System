@@ -1,0 +1,1076 @@
+{
+  "status": "conflict_detected",
+  "primary_mission": "PRIMARY_001",
+  "check_timestamp": "2025-07-31T13:09:15",
+  "conflicts": [
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "CRITICAL",
+      "time": 15,
+      "location": [
+        24.166666666666668,
+        24.166666666666668,
+        13.083333333333332
+      ],
+      "distance": 2.62995563967658,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        25.0,
+        25.0,
+        12.5
+      ],
+      "conflicting_position": [
+        23.333333333333336,
+        23.333333333333336,
+        13.666666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=15.0s: 2.6m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "CRITICAL",
+      "time": 15.5,
+      "location": [
+        24.916666666666668,
+        24.916666666666668,
+        13.141666666666666
+      ],
+      "distance": 2.822971247934822,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        25.833333333333336,
+        25.833333333333336,
+        12.583333333333332
+      ],
+      "conflicting_position": [
+        24.0,
+        24.0,
+        13.7
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=15.5s: 2.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 16.0,
+      "location": [
+        25.666666666666668,
+        25.666666666666668,
+        13.2
+      ],
+      "distance": 3.0228757463345692,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        26.666666666666668,
+        26.666666666666668,
+        12.666666666666666
+      ],
+      "conflicting_position": [
+        24.666666666666668,
+        24.666666666666668,
+        13.733333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=16.0s: 3.0m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 16.5,
+      "location": [
+        26.416666666666668,
+        26.416666666666668,
+        13.258333333333333
+      ],
+      "distance": 3.2283896914715826,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        27.5,
+        27.5,
+        12.75
+      ],
+      "conflicting_position": [
+        25.333333333333336,
+        25.333333333333336,
+        13.766666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=16.5s: 3.2m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 17.0,
+      "location": [
+        27.166666666666668,
+        27.166666666666668,
+        13.316666666666666
+      ],
+      "distance": 3.4385074281340966,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        28.333333333333336,
+        28.333333333333336,
+        12.833333333333332
+      ],
+      "conflicting_position": [
+        26.0,
+        26.0,
+        13.8
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=17.0s: 3.4m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 17.5,
+      "location": [
+        27.916666666666668,
+        27.916666666666668,
+        13.375
+      ],
+      "distance": 3.652434500135188,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        29.166666666666668,
+        29.166666666666668,
+        12.916666666666666
+      ],
+      "conflicting_position": [
+        26.666666666666668,
+        26.666666666666668,
+        13.833333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=17.5s: 3.7m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 18.0,
+      "location": [
+        28.666666666666664,
+        28.666666666666664,
+        13.433333333333334
+      ],
+      "distance": 3.8695391629150553,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        30.0,
+        30.0,
+        13.0
+      ],
+      "conflicting_position": [
+        27.333333333333332,
+        27.333333333333332,
+        13.866666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=18.0s: 3.9m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 18.5,
+      "location": [
+        29.416666666666668,
+        29.416666666666668,
+        13.491666666666667
+      ],
+      "distance": 4.089315346118471,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        30.833333333333336,
+        30.833333333333336,
+        13.083333333333332
+      ],
+      "conflicting_position": [
+        28.0,
+        28.0,
+        13.9
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=18.5s: 4.1m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 19.0,
+      "location": [
+        30.166666666666668,
+        30.166666666666668,
+        13.55
+      ],
+      "distance": 4.311354517756314,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        31.666666666666668,
+        31.666666666666668,
+        13.166666666666666
+      ],
+      "conflicting_position": [
+        28.666666666666668,
+        28.666666666666668,
+        13.933333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=19.0s: 4.3m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 19.5,
+      "location": [
+        30.916666666666664,
+        30.916666666666664,
+        13.608333333333334
+      ],
+      "distance": 4.535324317694015,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        32.5,
+        32.5,
+        13.25
+      ],
+      "conflicting_position": [
+        29.333333333333332,
+        29.333333333333332,
+        13.966666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=19.5s: 4.5m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 20.0,
+      "location": [
+        31.666666666666668,
+        31.666666666666668,
+        13.666666666666666
+      ],
+      "distance": 4.760952285695237,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        33.333333333333336,
+        33.333333333333336,
+        13.333333333333332
+      ],
+      "conflicting_position": [
+        30.0,
+        30.0,
+        14.0
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=20.0s: 4.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 20.5,
+      "location": [
+        32.41666666666667,
+        32.41666666666667,
+        13.725
+      ],
+      "distance": 4.988013409943665,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        34.16666666666667,
+        34.16666666666667,
+        13.416666666666666
+      ],
+      "conflicting_position": [
+        30.666666666666668,
+        30.666666666666668,
+        14.033333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=20.5s: 5.0m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 21.0,
+      "location": [
+        33.166666666666664,
+        33.166666666666664,
+        13.783333333333333
+      ],
+      "distance": 5.216320542297992,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        35.0,
+        35.0,
+        13.5
+      ],
+      "conflicting_position": [
+        31.333333333333332,
+        31.333333333333332,
+        14.066666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=21.0s: 5.2m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 21.5,
+      "location": [
+        33.91666666666667,
+        33.91666666666667,
+        13.841666666666665
+      ],
+      "distance": 5.445716971467887,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        35.833333333333336,
+        35.833333333333336,
+        13.583333333333332
+      ],
+      "conflicting_position": [
+        32.0,
+        32.0,
+        14.1
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=21.5s: 5.4m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 22.0,
+      "location": [
+        34.66666666666667,
+        34.66666666666667,
+        13.899999999999999
+      ],
+      "distance": 5.676070628328888,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        36.66666666666667,
+        36.66666666666667,
+        13.666666666666666
+      ],
+      "conflicting_position": [
+        32.666666666666664,
+        32.666666666666664,
+        14.133333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=22.0s: 5.7m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "HIGH",
+      "time": 22.5,
+      "location": [
+        35.41666666666667,
+        35.41666666666667,
+        13.958333333333332
+      ],
+      "distance": 5.907269532815757,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        37.5,
+        37.5,
+        13.75
+      ],
+      "conflicting_position": [
+        33.333333333333336,
+        33.333333333333336,
+        14.166666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=22.5s: 5.9m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 23.0,
+      "location": [
+        36.16666666666667,
+        36.16666666666667,
+        14.016666666666666
+      ],
+      "distance": 6.139218191268335,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        38.333333333333336,
+        38.333333333333336,
+        13.833333333333332
+      ],
+      "conflicting_position": [
+        34.0,
+        34.0,
+        14.2
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=23.0s: 6.1m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 23.5,
+      "location": [
+        36.91666666666667,
+        36.91666666666667,
+        14.075
+      ],
+      "distance": 6.371834726181926,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        39.16666666666667,
+        39.16666666666667,
+        13.916666666666666
+      ],
+      "conflicting_position": [
+        34.666666666666664,
+        34.666666666666664,
+        14.233333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=23.5s: 6.4m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 24.0,
+      "location": [
+        37.66666666666667,
+        37.66666666666667,
+        14.133333333333333
+      ],
+      "distance": 6.605048574133775,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        40.0,
+        40.0,
+        14.0
+      ],
+      "conflicting_position": [
+        35.333333333333336,
+        35.333333333333336,
+        14.266666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=24.0s: 6.6m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 24.5,
+      "location": [
+        38.41666666666667,
+        38.41666666666667,
+        14.191666666666666
+      ],
+      "distance": 6.8387986274393775,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        40.833333333333336,
+        40.833333333333336,
+        14.083333333333332
+      ],
+      "conflicting_position": [
+        36.0,
+        36.0,
+        14.3
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=24.5s: 6.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 25.0,
+      "location": [
+        39.16666666666667,
+        39.16666666666667,
+        14.25
+      ],
+      "distance": 7.073031724640992,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        41.66666666666667,
+        41.66666666666667,
+        14.166666666666666
+      ],
+      "conflicting_position": [
+        36.666666666666664,
+        36.666666666666664,
+        14.333333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=25.0s: 7.1m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 25.5,
+      "location": [
+        39.91666666666667,
+        39.91666666666667,
+        14.308333333333334
+      ],
+      "distance": 7.307701416998368,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        42.5,
+        42.5,
+        14.25
+      ],
+      "conflicting_position": [
+        37.333333333333336,
+        37.333333333333336,
+        14.366666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=25.5s: 7.3m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 26.0,
+      "location": [
+        40.66666666666667,
+        40.66666666666667,
+        14.366666666666667
+      ],
+      "distance": 7.54276695472778,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        43.333333333333336,
+        43.333333333333336,
+        14.333333333333332
+      ],
+      "conflicting_position": [
+        38.0,
+        38.0,
+        14.4
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=26.0s: 7.5m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 26.5,
+      "location": [
+        41.41666666666667,
+        41.41666666666667,
+        14.425
+      ],
+      "distance": 7.7781924492633845,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        44.16666666666667,
+        44.16666666666667,
+        14.416666666666666
+      ],
+      "conflicting_position": [
+        38.666666666666664,
+        38.666666666666664,
+        14.433333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=26.5s: 7.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 27.0,
+      "location": [
+        42.166666666666664,
+        42.166666666666664,
+        14.483333333333334
+      ],
+      "distance": 8.013946177341937,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        45.0,
+        45.0,
+        14.5
+      ],
+      "conflicting_position": [
+        39.33333333333333,
+        39.33333333333333,
+        14.466666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=27.0s: 8.0m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 27.5,
+      "location": [
+        42.91666666666667,
+        42.91666666666667,
+        14.541666666666666
+      ],
+      "distance": 8.250000000000004,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        45.833333333333336,
+        45.833333333333336,
+        14.583333333333332
+      ],
+      "conflicting_position": [
+        40.0,
+        40.0,
+        14.5
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=27.5s: 8.3m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 28.0,
+      "location": [
+        43.66666666666667,
+        43.66666666666667,
+        14.6
+      ],
+      "distance": 8.486328875183776,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        46.66666666666667,
+        46.66666666666667,
+        14.666666666666666
+      ],
+      "conflicting_position": [
+        40.666666666666664,
+        40.666666666666664,
+        14.533333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=28.0s: 8.5m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 28.5,
+      "location": [
+        44.416666666666664,
+        44.416666666666664,
+        14.658333333333333
+      ],
+      "distance": 8.72291044701634,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        47.5,
+        47.5,
+        14.75
+      ],
+      "conflicting_position": [
+        41.33333333333333,
+        41.33333333333333,
+        14.566666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=28.5s: 8.7m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 29.0,
+      "location": [
+        45.16666666666667,
+        45.16666666666667,
+        14.716666666666665
+      ],
+      "distance": 8.959724698151541,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        48.333333333333336,
+        48.333333333333336,
+        14.833333333333332
+      ],
+      "conflicting_position": [
+        42.0,
+        42.0,
+        14.6
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=29.0s: 9.0m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 29.5,
+      "location": [
+        45.91666666666667,
+        45.91666666666667,
+        14.774999999999999
+      ],
+      "distance": 9.196753654294431,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        49.16666666666667,
+        49.16666666666667,
+        14.916666666666666
+      ],
+      "conflicting_position": [
+        42.666666666666664,
+        42.666666666666664,
+        14.633333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=29.5s: 9.2m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 30.0,
+      "location": [
+        46.666666666666664,
+        46.666666666666664,
+        14.833333333333332
+      ],
+      "distance": 9.43398113205661,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        50.0,
+        50.0,
+        15.0
+      ],
+      "conflicting_position": [
+        43.33333333333333,
+        43.33333333333333,
+        14.666666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=30.0s: 9.4m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 30.5,
+      "location": [
+        47.41666666666667,
+        46.79166666666667,
+        14.891666666666666
+      ],
+      "distance": 8.832610033280087,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        50.833333333333336,
+        49.583333333333336,
+        15.083333333333334
+      ],
+      "conflicting_position": [
+        44.0,
+        44.0,
+        14.7
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=30.5s: 8.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 31.0,
+      "location": [
+        48.166666666666664,
+        46.916666666666664,
+        14.95
+      ],
+      "distance": 8.332933323732872,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        51.666666666666664,
+        49.166666666666664,
+        15.166666666666666
+      ],
+      "conflicting_position": [
+        44.666666666666664,
+        44.666666666666664,
+        14.733333333333333
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=31.0s: 8.3m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 31.5,
+      "location": [
+        48.916666666666664,
+        47.041666666666664,
+        15.008333333333333
+      ],
+      "distance": 7.954139383574657,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        52.5,
+        48.75,
+        15.25
+      ],
+      "conflicting_position": [
+        45.33333333333333,
+        45.33333333333333,
+        14.766666666666666
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=31.5s: 8.0m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 32.0,
+      "location": [
+        49.66666666666667,
+        47.16666666666667,
+        15.066666666666666
+      ],
+      "distance": 7.714056433982495,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        53.333333333333336,
+        48.333333333333336,
+        15.333333333333334
+      ],
+      "conflicting_position": [
+        46.0,
+        46.0,
+        14.8
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=32.0s: 7.7m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 32.5,
+      "location": [
+        50.416666666666664,
+        47.291666666666664,
+        15.125
+      ],
+      "distance": 7.625796861822231,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        54.166666666666664,
+        47.916666666666664,
+        15.416666666666666
+      ],
+      "conflicting_position": [
+        46.666666666666664,
+        46.666666666666664,
+        14.833333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=32.5s: 7.6m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 33.0,
+      "location": [
+        51.166666666666664,
+        47.416666666666664,
+        15.183333333333334
+      ],
+      "distance": 7.694586841843215,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        55.0,
+        47.5,
+        15.5
+      ],
+      "conflicting_position": [
+        47.33333333333333,
+        47.33333333333333,
+        14.866666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=33.0s: 7.7m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "MEDIUM",
+      "time": 33.5,
+      "location": [
+        51.91666666666667,
+        47.54166666666667,
+        15.241666666666667
+      ],
+      "distance": 7.916333326315496,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        55.833333333333336,
+        47.083333333333336,
+        15.583333333333334
+      ],
+      "conflicting_position": [
+        48.0,
+        48.0,
+        14.9
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=33.5s: 7.9m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 34.0,
+      "location": [
+        52.666666666666664,
+        47.666666666666664,
+        15.3
+      ],
+      "distance": 8.278754603065474,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        56.666666666666664,
+        46.666666666666664,
+        15.666666666666666
+      ],
+      "conflicting_position": [
+        48.666666666666664,
+        48.666666666666664,
+        14.933333333333334
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=34.0s: 8.3m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 34.5,
+      "location": [
+        53.416666666666664,
+        47.791666666666664,
+        15.358333333333334
+      ],
+      "distance": 8.764416694794928,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        57.5,
+        46.25,
+        15.75
+      ],
+      "conflicting_position": [
+        49.33333333333333,
+        49.33333333333333,
+        14.966666666666667
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=34.5s: 8.8m separation (required: 10.0m)"
+    },
+    {
+      "type": "spatial_temporal_conflict",
+      "severity": "LOW",
+      "time": 35.0,
+      "location": [
+        54.16666666666667,
+        47.91666666666667,
+        15.416666666666668
+      ],
+      "distance": 9.354143466934854,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_001",
+      "primary_position": [
+        58.333333333333336,
+        45.833333333333336,
+        15.833333333333334
+      ],
+      "conflicting_position": [
+        50.0,
+        50.0,
+        15.0
+      ],
+      "description": "Conflict between PRIMARY_001 and SIM_001 at t=35.0s: 9.4m separation (required: 10.0m)"
+    },
+    {
+      "type": "close_encounter_warning",
+      "severity": "WARNING",
+      "time": 124.5,
+      "location": [
+        210.08333333333331,
+        109.125,
+        19.174999999999997
+      ],
+      "distance": 11.939825980492527,
+      "required_separation": 10.0,
+      "primary_drone": "PRIMARY_001",
+      "conflicting_drone": "SIM_003",
+      "primary_position": [
+        207.5,
+        103.75,
+        18.9
+      ],
+      "conflicting_position": [
+        212.66666666666666,
+        114.5,
+        19.45
+      ],
+      "description": "Close encounter between PRIMARY_001 and SIM_003 at t=124.5s: 11.9m separation"
+    }
+  ],
+  "conflict_summary": {
+    "total_conflicts": 42,
+    "critical_conflicts": 2,
+    "high_conflicts": 14,
+    "medium_conflicts": 13,
+    "low_conflicts": 12,
+    "warnings": 1
+  },
+  "simulated_flights_checked": 3,
+  "recommendation": "Mission REJECTED. Critical conflicts detected. Immediate replanning required.",
+  "alternative_time_windows": [
+    {
+      "type": "later_window",
+      "start_time": 134.5,
+      "end_time": 284.5,
+      "description": "Execute mission later to avoid conflicts"
+    }
+  ],
+  "saved_timestamp": "2025-07-31T18:39:22.078237"
+}
